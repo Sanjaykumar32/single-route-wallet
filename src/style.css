@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(to right top, #d16ba5, #ae68a3, #8c649b, #6d5e8d, #54567a, #505373, #4c4f6c, #484c65, #514e6a, #5a506e, #645271, #6e5473);
+    min-height: 100vh;
+    background-size: cover;
+}
+.form-control {
+    background: transparent;
+}
